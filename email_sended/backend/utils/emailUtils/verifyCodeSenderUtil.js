@@ -1,4 +1,3 @@
-// mailSender.js
 const { sendEmail } = require('./emailSenderBaseUtil');
 
 /**

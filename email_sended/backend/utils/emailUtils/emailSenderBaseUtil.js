@@ -1,4 +1,3 @@
-// emailSenderBaseUtil.js
 require('dotenv').config();
 const { Resend } = require('resend');
 
